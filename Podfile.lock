@@ -11,21 +11,21 @@ PODS:
   - ISO8601DateFormatter (0.8)
   - OCHamcrest (3.0.1)
   - OCMock (2.2.4)
-  - RestKit/CoreData (0.27.4):
+  - RestKit/CoreData (0.27.5):
     - RestKit/ObjectMapping
-  - RestKit/Network (0.27.4):
+  - RestKit/Network (0.27.5):
     - RestKit/ObjectMapping
     - RestKit/Support
     - SOCKit
-  - RestKit/ObjectMapping (0.27.4):
+  - RestKit/ObjectMapping (0.27.5):
     - ISO8601DateFormatter (~> 0.7)
     - RestKit/Support
     - RKValueTransformers (~> 1.1.0)
-  - RestKit/Search (0.27.4):
+  - RestKit/Search (0.27.5):
     - RestKit/CoreData
-  - RestKit/Support (0.27.4):
+  - RestKit/Support (0.27.5):
     - TransitionKit (~> 2.2)
-  - RestKit/Testing (0.27.4):
+  - RestKit/Testing (0.27.5):
     - RestKit/Network
   - RKCLLocationValueTransformer (1.1.0):
     - RKValueTransformers (~> 1.1.0)
@@ -71,7 +71,7 @@ SPEC CHECKSUMS:
   ISO8601DateFormatter: 4551b6ce4f83185425f583b0b3feb3c7b59b942c
   OCHamcrest: e19857683e4eefab64b878668eac04c2f4567118
   OCMock: a6a7dc0e3997fb9f35d99f72528698ebf60d64f2
-  RestKit: 59f98e2faea20d185e2ecea16369422ab86e9ab4
+  RestKit: a20127e9fbc8347ec3cb19b0c7182eff26b44379
   RKCLLocationValueTransformer: 2cf0ea0fb7cd4bc70c56834fb92abc717c66f982
   RKValueTransformers: e5ed67e3811229b616fe01bddeeafe3bb337b1b9
   SOCKit: c7376ac262bea9115b8f749358f762522a47d392
